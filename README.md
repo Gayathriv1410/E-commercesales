@@ -41,3 +41,9 @@ Sales Trend Over Time: Evaluate how sales have changed month-to-month or year-ov
 Top Selling Products: Identify which products or categories generate the most revenue.
 Customer Insights: Analyze customer purchase frequency, locations, and preferences.
 Revenue by Region: Determine which geographic regions contribute the most to sales.
+
+
+
+DASHBOARD heref:https://github.com/Gayathriv1410/E-commercesales/blob/main/SALES%20DASHBOARD.png
+
+
